@@ -1,3 +1,3 @@
 #  第1章 统计学习方法概论(LeastSquaresMethod)
 
-最小二乘公式及原理：https://baike.baidu.com/item/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95#3
+最小二乘公式及原理：https://baike.baidu.com/item/最小二乘法#3
