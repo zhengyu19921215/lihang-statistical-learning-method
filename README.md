@@ -23,11 +23,12 @@
 第11章 条件随机场(CRF)
 
 第12章 统计学习方法总结
------------
-# 书籍:
+
+**书籍:**
+
 https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/统计学习方法-李航.pdf
------------
-#参考：
+
+**参考：**
 https://github.com/wzyonggege/statistical-learning-method
 https://github.com/WenDesi/lihang_book_algorithm
 https://blog.csdn.net/tudaodiaozhale
