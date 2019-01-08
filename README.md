@@ -4,7 +4,7 @@
 
 第2章 [感知机(Perceptron)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/2-Perceptron/Iris_perceptron.ipynb)
 
-第3章 k近邻法(KNearestNeighbors)
+第3章 [k近邻法(KNearestNeighbors)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/3-KNearestNeighbors/KNN.ipynb)
 
 第4章 朴素贝叶斯(NaiveBayes)
 
