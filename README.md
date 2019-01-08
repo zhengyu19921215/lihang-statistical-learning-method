@@ -2,7 +2,7 @@
 
 第1章 [统计学习方法概论:最小二乘法(LeastSquaresMethod)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/1-LeastSquaresMethod/least_sqaure_method.ipynb)
 
-第2章 感知机(Perceptron)
+第2章 [感知机(Perceptron)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/2-Perceptron/Iris_perceptron.ipynb)
 
 第3章 k近邻法(KNearestNeighbors)
 
