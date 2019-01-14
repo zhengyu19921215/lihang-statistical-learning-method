@@ -6,7 +6,7 @@
 
 第3章 [k近邻法(KNearestNeighbors)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/3-KNearestNeighbors)
 
-第4章 朴素贝叶斯(NaiveBayes)
+第4章 [朴素贝叶斯(NaiveBayes)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/4-NaiveBayes)
 
 第5章 决策树(DecisonTree)
 
