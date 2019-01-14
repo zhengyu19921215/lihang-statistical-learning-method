@@ -2,9 +2,9 @@
 
 第1章 [统计学习方法概论:最小二乘法(LeastSquaresMethod)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/1-LeastSquaresMethod)
 
-第2章 [感知机(Perceptron)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/2-Perceptron/Iris_perceptron.ipynb)
+第2章 [感知机(Perceptron)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/2-Perceptron)
 
-第3章 [k近邻法(KNearestNeighbors)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/3-KNearestNeighbors/KNN.ipynb)
+第3章 [k近邻法(KNearestNeighbors)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/blob/master/code/3-KNearestNeighbors)
 
 第4章 朴素贝叶斯(NaiveBayes)
 
