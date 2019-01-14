@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.naive_bayes import GaussianNB
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import BernoulliNB, MultinomialNB # 伯努利模型和多项式模型
 # data
 def create_data():
     iris = load_iris()
@@ -21,3 +22,4 @@ clf = GaussianNB()
 clf.fit(X_train, y_train)
 result=clf.predict([[4.4,  3.2,  1.3,  0.2]])
 print(result)
+
