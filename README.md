@@ -8,7 +8,7 @@
 
 第4章 [朴素贝叶斯(NaiveBayes)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/4-NaiveBayes)
 
-第5章 决策树(DecisonTree)
+第5章 [决策树(DecisonTree)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/5-DecisonTree)
 
 第6章 逻辑斯谛回归(LogisticRegression)
 
