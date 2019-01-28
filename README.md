@@ -12,7 +12,7 @@
 
 第6章  [逻辑斯谛回归(LogisticRegression)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/6-LogisticRegression)
 
-第7章 支持向量机(SVM)
+第7章  [支持向量机(SVM)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/7-SVM)
 
 第8章 提升方法(AdaBoost)
 
