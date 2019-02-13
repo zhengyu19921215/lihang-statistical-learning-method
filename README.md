@@ -14,7 +14,7 @@
 
 第7章  [支持向量机(SVM)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/7-SVM)
 
-第8章 提升方法(AdaBoost)
+第8章  [提升方法(AdaBoost)](https://github.com/zhengyu19921215/lihang-statistical-learning-method/tree/master/code/8-AdaBoost)
 
 第9章 EM算法及其推广(EM)
 
